@@ -49,6 +49,6 @@ Virus analysis
 
 
 ## AQI 
-AQI measures the air quality in Australia during a period of one year
+AQI measures the air quality in Australia
 
 http://www.dpie.nsw.gov.au/air-quality/search-for-and-download-air-quality-data
