@@ -2,27 +2,28 @@
 This is the list of the datasets that have been used for testing the framework
 
 ## Heart 
-https://www.kaggle.com/ronitf/heart-disease-uci/data
 
 Binary classification
 
+https://www.kaggle.com/ronitf/heart-disease-uci/data
 
 ## Road surface condition
-https://www.kaggle.com/gloseto/traffic-driving-style-road-surface-condition
 
 Multiclass classification 
 
-Also, more than one possible target columns
+More than one possible targets
 
+https://www.kaggle.com/gloseto/traffic-driving-style-road-surface-condition
 
 ## Appliance energy
 
-https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction
-
 Regression
+
+https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction
 
 
 ## Envirocar
+
 Fuel consumption estimation with EnviroCar data
 
 Regression
@@ -35,7 +36,9 @@ R.Massoud, F.Bellotti, S.Poslad, R.Berta, A.De Gloria, “Towards a Reality-Enha
 
 
 ## Sonar
-Sonar represents the readings of a sonar that analyzes materials, distinguishing between rocks and metallic material.
+
+Readings of a sonar that analyzes materials, distinguishing between rocks and metallic material.
+
 http://www.fizyka.umk.pl/kis-old/projects/datasets.html#Sonar
 
 
