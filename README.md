@@ -28,6 +28,8 @@ Fuel consumption estimation with EnviroCar data
 
 Regression
 
+https://envirocar.org/
+
 http://www.old.datahub.io/dataset/envirocar 
 
 Massoud, R.; Poslad, S.; Bellotti, F.; Berta, R.; Mehran, K.; Gloria, A.D. A Fuzzy Logic Module to Estimate a Driver’s Fuel Consumption for Reality-Enhanced Serious Games. Int. J. Serious Games 2018, 5, 45–62, https://doi.org/10.17083/ijsg.v5i4.266 
